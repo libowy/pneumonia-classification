@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pnuemoia-classification"
+version = "0.1.0"
+description = ""
+authors = ["libowy <82291952+libowy@users.noreply.github.com>"]
+license = "BSD"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
