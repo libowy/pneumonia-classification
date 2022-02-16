@@ -1,0 +1,18 @@
+[[package]]
+name = "pyenv-win"
+version = "2.64.11"
+description = "pyenv lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well."
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "2cdf347a11c8ae9ee84ca8f5aa9c7ec7719524df521647e59936e6deebbb672d"
+
+[metadata.files]
+pyenv-win = [
+    {file = "pyenv-win-2.64.11.tar.gz", hash = "sha256:5133dea1dc003c2d67a94db9da9d597aa860984c1bbe6a9780ad5c6842c2ab1e"},
+    {file = "pyenv_win-2.64.11-py3-none-any.whl", hash = "sha256:f362d1b48d69e236e676462f062b2bbde5d16ad81de6e4c9b322be6ec946fcb3"},
+]
